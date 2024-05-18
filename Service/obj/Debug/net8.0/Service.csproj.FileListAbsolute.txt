@@ -1,0 +1,17 @@
+F:\Carseer\Carseer\Service\bin\Debug\net8.0\Service.deps.json
+F:\Carseer\Carseer\Service\bin\Debug\net8.0\Service.dll
+F:\Carseer\Carseer\Service\bin\Debug\net8.0\Service.pdb
+F:\Carseer\Carseer\Service\bin\Debug\net8.0\Domain.dll
+F:\Carseer\Carseer\Service\bin\Debug\net8.0\Repository.dll
+F:\Carseer\Carseer\Service\bin\Debug\net8.0\Domain.pdb
+F:\Carseer\Carseer\Service\bin\Debug\net8.0\Repository.pdb
+F:\Carseer\Carseer\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+F:\Carseer\Carseer\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\Carseer\Carseer\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+F:\Carseer\Carseer\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+F:\Carseer\Carseer\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+F:\Carseer\Carseer\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+F:\Carseer\Carseer\Service\obj\Debug\net8.0\Service.dll
+F:\Carseer\Carseer\Service\obj\Debug\net8.0\refint\Service.dll
+F:\Carseer\Carseer\Service\obj\Debug\net8.0\Service.pdb
+F:\Carseer\Carseer\Service\obj\Debug\net8.0\ref\Service.dll

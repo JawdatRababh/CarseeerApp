@@ -1,0 +1,11 @@
+F:\Carseer\Carseer\Domain\bin\Debug\net8.0\Domain.deps.json
+F:\Carseer\Carseer\Domain\bin\Debug\net8.0\Domain.dll
+F:\Carseer\Carseer\Domain\bin\Debug\net8.0\Domain.pdb
+F:\Carseer\Carseer\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Carseer\Carseer\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+F:\Carseer\Carseer\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+F:\Carseer\Carseer\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+F:\Carseer\Carseer\Domain\obj\Debug\net8.0\Domain.dll
+F:\Carseer\Carseer\Domain\obj\Debug\net8.0\refint\Domain.dll
+F:\Carseer\Carseer\Domain\obj\Debug\net8.0\Domain.pdb
+F:\Carseer\Carseer\Domain\obj\Debug\net8.0\ref\Domain.dll
